@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="declaration">
-            <pb facs="tcp:000859_0000_0FABF15F4B0CACA0"/>
-            <pb n="1" facs="tcp:000859_0001_0FABF161AB105290"/>
+            <pb facs="unknown:000859_0000_0FABF15F4B0CACA0"/>
+            <pb n="1" facs="unknown:000859_0001_0FABF161AB105290"/>
             <head>A MANIFESTO OR Declaration, Set forth by the Undertakers of the New Church Now Erected in <hi>Boſton</hi> in <hi>New-England, November</hi> 17<hi>th.</hi> 1699.</head>
             <p>INASM<g ref="char:V">Ʋ</g>CH as GOD hath put it into our hearts to undertake the Building a New <hi>Meeting Houſe</hi> in this Town for His Publick Worſhip; And whereas through the gracious Smiles of Divine Providence on this our <g ref="char:V">Ʋ</g>ndertaking, We now ſee the ſame Erected, and near Finiſhed: We think it Convenient, for preventing all Miſapprehenſions and Jealouſies, to publiſh our Aims and Deſigns herein, together with thoſe Principles and Rules we intend by GODS Grace to adhere unto.</p>
             <p>
@@ -134,7 +134,7 @@
                <p>In all other parts of Divine Worſhip as (Prayer, Singing, Preaching, Bleſſing the People, and Adminiſtring the Sacraments;) We conform to the ordinary practice of the Churches of Chriſt in this Country.</p>
             </div>
             <div n="3" type="part">
-               <pb n="2" facs="tcp:000859_0002_0FABF162CCD30520"/>
+               <pb n="2" facs="unknown:000859_0002_0FABF162CCD30520"/>
                <head>[III.]</head>
                <p>It is our ſincere deſire and intention to hold Communion with the Churches here, as true Churches; and we openly proteſt againſt all Suſpicion and Jealouſie to the contrary, as moſt Injurious to us.</p>
             </div>
@@ -176,7 +176,7 @@
             </div>
             <div n="12" type="part">
                <pb n="3"
-                   facs="tcp:000859_0003_0FABF162F29A5C68"
+                   facs="unknown:000859_0003_0FABF162F29A5C68"
                    rendition="simple:additions"/>
                <head>[XII.]</head>
                <p>Foraſmuch as the ſame power that <hi>Admits,</hi> ſhould alſo <hi>Exclude,</hi> We judge it reaſonable, that the Paſtor in Suſpending or Excommunicating an Offender, have the conſent and concurrence of the Brethren.</p>
